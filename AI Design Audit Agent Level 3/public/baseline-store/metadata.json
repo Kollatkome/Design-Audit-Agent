@@ -1,0 +1,89 @@
+{
+  "baselines": {
+    "home": {
+      "url": "https://www.moviesda.talk/",
+      "slug": "home",
+      "approvedVersion": "v1",
+      "versions": [
+        {
+          "versionId": "v1",
+          "timestamp": "2026-06-07T05:31:58.839Z",
+          "screenshotPath": "/baseline-store/home-v1.png",
+          "status": "approved"
+        }
+      ],
+      "current": {
+        "timestamp": "2026-06-07T05:31:58.839Z",
+        "screenshotPath": "/baseline-store/home-current.png"
+      }
+    },
+    "isaimini": {
+      "url": "https://www.moviesda.talk/isaimini/",
+      "slug": "isaimini",
+      "approvedVersion": "v1",
+      "versions": [
+        {
+          "versionId": "v1",
+          "timestamp": "2026-06-07T05:31:58.839Z",
+          "screenshotPath": "/baseline-store/isaimini-v1.png",
+          "status": "approved"
+        }
+      ],
+      "current": {
+        "timestamp": "2026-06-07T05:31:58.839Z",
+        "screenshotPath": "/baseline-store/isaimini-current.png"
+      }
+    },
+    "tamil-dubbed-movies": {
+      "url": "https://www.moviesda.talk/tamil-dubbed-movies/",
+      "slug": "tamil-dubbed-movies",
+      "approvedVersion": "v1",
+      "versions": [
+        {
+          "versionId": "v1",
+          "timestamp": "2026-06-07T05:31:58.839Z",
+          "screenshotPath": "/baseline-store/tamil-dubbed-movies-v1.png",
+          "status": "approved"
+        }
+      ],
+      "current": {
+        "timestamp": "2026-06-07T05:31:58.839Z",
+        "screenshotPath": "/baseline-store/tamil-dubbed-movies-current.png"
+      }
+    },
+    "moviesda-2026-movies": {
+      "url": "https://www.moviesda.talk/moviesda-2026-movies/",
+      "slug": "moviesda-2026-movies",
+      "approvedVersion": "v1",
+      "versions": [
+        {
+          "versionId": "v1",
+          "timestamp": "2026-06-07T05:31:58.839Z",
+          "screenshotPath": "/baseline-store/moviesda-2026-movies-v1.png",
+          "status": "approved"
+        }
+      ],
+      "current": {
+        "timestamp": "2026-06-07T05:31:58.839Z",
+        "screenshotPath": "/baseline-store/moviesda-2026-movies-current.png"
+      }
+    },
+    "moviesda-2025-movies": {
+      "url": "https://www.moviesda.talk/moviesda-2025-movies/",
+      "slug": "moviesda-2025-movies",
+      "approvedVersion": "v1",
+      "versions": [
+        {
+          "versionId": "v1",
+          "timestamp": "2026-06-07T05:31:58.839Z",
+          "screenshotPath": "/baseline-store/moviesda-2025-movies-v1.png",
+          "status": "approved"
+        }
+      ],
+      "current": {
+        "timestamp": "2026-06-07T05:31:58.839Z",
+        "screenshotPath": "/baseline-store/moviesda-2025-movies-current.png"
+      }
+    }
+  }
+}
